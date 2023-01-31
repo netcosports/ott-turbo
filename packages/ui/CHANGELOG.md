@@ -1,5 +1,11 @@
 # ui
 
+## 1.0.3
+
+### Patch Changes
+
+- 9528079: fix: update button
+
 ## 1.0.2
 
 ### Patch Changes
